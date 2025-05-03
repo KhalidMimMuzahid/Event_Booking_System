@@ -1,4 +1,4 @@
-# Code WepApplication EventBooking
+# Code WepApplication for EventBooking
 Code WepApplication EventBooking
 
 Tech Stack
